@@ -1,5 +1,4 @@
 /*
-    * Name: Charlize Angeles, 5007982234, 1006, Assignment 4
     * Description: A program that determines the cost of 
     airplane tickets depending on the ticket type
     * Input: ticket type wanted, amount of tickets,
