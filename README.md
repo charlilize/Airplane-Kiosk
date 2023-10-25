@@ -30,17 +30,17 @@ To run the program, follow these steps:
 5. Repeat the process for additional ticket calculations.
 
 ## Example
-(F)irst
-(B)usiness
-(E)conomy
-Enter a selection: F
-Enter amount: 2
-COST $ 110.00
-Shutdown? (Y/N): N
-(F)irst
-(B)usiness
-(E)conomy
-Enter a selection: B
-Enter amount: 3
-COST $ 225.00
-Shutdown? (Y/N): Y
+- (F)irst
+- (B)usiness
+- (E)conomy
+- Enter a selection: F
+- Enter amount: 2
+- COST $ 110.00
+- Shutdown? (Y/N): N
+- (F)irst
+- (B)usiness
+- (E)conomy
+- Enter a selection: B
+- Enter amount: 3
+- COST $ 225.00
+- Shutdown? (Y/N): Y
