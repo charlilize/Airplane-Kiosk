@@ -18,7 +18,7 @@ The program prompts the user to select a ticket type, enter the number of ticket
 To run the program, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/airplane-ticket-cost-calculator.git`
-2. Compile the code: `g++ AirplaneKiosk.cpp`
+2. Compile the code: `g++ airplaneKiosk.cpp`
 3. Run the program: `./a.out`
 
 ## Usage
